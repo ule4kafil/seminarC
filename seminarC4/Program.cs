@@ -1,24 +1,17 @@
-﻿int Number(int arg1) 
+﻿
+Console.WriteLine("число");
+int i = int.Parse(Console.ReadLine());
+int n = 1;
+while (n<=i)
 {
-    int arr = [];
-    for (int i = 1; i <= arg1; i++)
+    int result = n % 2;
+    if (result !=1)
     {
-        if (i % 2 == 0)
-        {
-            //arr + i
-        }
+        Console.WriteLine("четное + n");
+        n++;
     }
-
-
-
-    return arr;
+    else
+    {
+        n++;
+    }
 }
-
-
-
-int arg = 43;
-
-
-int result = Number(arg);
-
-Console.WriteLine(result);
