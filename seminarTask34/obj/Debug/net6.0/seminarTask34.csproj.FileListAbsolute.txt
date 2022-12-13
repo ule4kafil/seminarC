@@ -1,0 +1,15 @@
+C:\Geekbrains\seminarC\seminarTask34\bin\Debug\net6.0\seminarTask34.exe
+C:\Geekbrains\seminarC\seminarTask34\bin\Debug\net6.0\seminarTask34.deps.json
+C:\Geekbrains\seminarC\seminarTask34\bin\Debug\net6.0\seminarTask34.runtimeconfig.json
+C:\Geekbrains\seminarC\seminarTask34\bin\Debug\net6.0\seminarTask34.dll
+C:\Geekbrains\seminarC\seminarTask34\bin\Debug\net6.0\seminarTask34.pdb
+C:\Geekbrains\seminarC\seminarTask34\obj\Debug\net6.0\seminarTask34.csproj.AssemblyReference.cache
+C:\Geekbrains\seminarC\seminarTask34\obj\Debug\net6.0\seminarTask34.GeneratedMSBuildEditorConfig.editorconfig
+C:\Geekbrains\seminarC\seminarTask34\obj\Debug\net6.0\seminarTask34.AssemblyInfoInputs.cache
+C:\Geekbrains\seminarC\seminarTask34\obj\Debug\net6.0\seminarTask34.AssemblyInfo.cs
+C:\Geekbrains\seminarC\seminarTask34\obj\Debug\net6.0\seminarTask34.csproj.CoreCompileInputs.cache
+C:\Geekbrains\seminarC\seminarTask34\obj\Debug\net6.0\seminarTask34.dll
+C:\Geekbrains\seminarC\seminarTask34\obj\Debug\net6.0\refint\seminarTask34.dll
+C:\Geekbrains\seminarC\seminarTask34\obj\Debug\net6.0\seminarTask34.pdb
+C:\Geekbrains\seminarC\seminarTask34\obj\Debug\net6.0\seminarTask34.genruntimeconfig.cache
+C:\Geekbrains\seminarC\seminarTask34\obj\Debug\net6.0\ref\seminarTask34.dll
